@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LifeCycle Methods</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1_label">Start New Activity</string>
+    <string name="button2_label">Call finish ()</string>
+    <string name="activityText">Second activity</string>
+    <string name="edit_label">""</string>
+    <string name="hint">(Enter User Name)</string>
+    <string name="second_activity">Second Activity</string>
+</resources>
